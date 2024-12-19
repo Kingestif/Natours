@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  }
+}
